@@ -1,0 +1,13 @@
+# Build/test artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PowerShell
+*.ps1.xml   # Get-Help output for advanced functions
